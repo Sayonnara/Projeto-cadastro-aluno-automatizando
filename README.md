@@ -18,6 +18,7 @@ PyAutoGUI
 
 📁 Estrutura
 cadastro-aluno-auto
+
 ├── automacao.py
 
 ├── alunos.txt
